@@ -15,6 +15,8 @@ We conside one categorical explanatory variable from the data set - **season** o
 ### Box Plot
 ![box_plot](anova_box_plot.png)<br>
 We can infer from the visualizations that on an avergae the number of rentals does vary across the seasons.<br>
+The means and standard deviations for the groups are:
+![means](means.png)<br>
 But is the variation statistically significant and that's where ANOVA comes in.
 
 ### ANOVA Results
