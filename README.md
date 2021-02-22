@@ -3,3 +3,4 @@ This repo has all the notebooks for the course Data Anlaysis Tools by Wesleyan U
 All the Notebooks are based on Python.
 
 ## 1.ANOVA with Tukey's Honest Significance Test(Post-Hoc)
+## 2.Chi Squared Test of Independence with Bonferroni Adjustment(Post-Hoc)
