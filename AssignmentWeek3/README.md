@@ -14,6 +14,8 @@ A Pearson Correlation quantifies the association between two Continious Variable
 This is the hourly bike rental data for Washington.
 We examine association between **temp**(temperature in Celsius) and **atemp**("feels like" temperature in Celsius).
 We use a regression plot(Scattered) to visualize the association.
+
+### Regression Plot
 ![scatter](scatter.png)<br>
 
 ### Value of Pearson Correlation
