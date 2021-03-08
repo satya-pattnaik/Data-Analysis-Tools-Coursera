@@ -4,4 +4,4 @@ All the Notebooks are based on Python.
 
 ## 1.ANOVA with Tukey's Honest Significance Test(Post-Hoc)
 ## 2.Chi Squared Test of Independence with Bonferroni Adjustment(Post-Hoc)
-## 3.Pearson Corelation
+## 3.Pearson Correlation
