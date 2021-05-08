@@ -6,3 +6,5 @@ All the Notebooks are based on Python.
 ## 2.Chi Squared Test of Independence with Bonferroni Adjustment(Post-Hoc)
 ## 3.Pearson Correlation
 ## 3.Testing a Potential Moderator(ANOVA case)
+
+![Certificate](cert.png)
